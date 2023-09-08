@@ -1,0 +1,1 @@
+HackRushCTF{GDB_Is_V3rY_p0wErFUL}

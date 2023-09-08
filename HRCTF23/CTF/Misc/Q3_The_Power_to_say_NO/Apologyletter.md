@@ -1,0 +1,1 @@
+I'm really sorry for this one. This was my first time making a CTF challenge, and I kinda sorta did it blind, it was a huge learning experience for me as well. Definitely won't have such a convoluted question like this again.

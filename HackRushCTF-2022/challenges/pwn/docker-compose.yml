@@ -1,0 +1,103 @@
+version: '2.4'
+services:
+  data_breach:
+    build: ./Data_Breach
+    ports:
+      - 13371:5000
+    read_only: true
+    cap_drop:
+      - all
+    cap_add:
+      - chown
+      - setuid
+      - mknod
+      - setgid
+      - sys_admin
+    security_opt:
+      - apparmor=unconfined
+      - seccomp=unconfined
+
+  domestic_canary:
+    build: ./Domestic_Canary
+    ports:
+      - 13372:5000
+    read_only: true
+    cap_drop:
+      - all
+    cap_add:
+      - chown
+      - setuid
+      - mknod
+      - setgid
+      - sys_admin
+    security_opt:
+      - apparmor=unconfined
+      - seccomp=unconfined
+
+  emotion_overflow:
+    build: ./Emotion_Overflow
+    ports:
+      - 13373:5000
+    read_only: true
+    cap_drop:
+      - all
+    cap_add:
+      - chown
+      - setuid
+      - mknod
+      - setgid
+      - sys_admin
+    security_opt:
+      - apparmor=unconfined
+      - seccomp=unconfined
+
+  game_of_thrones:
+    build: ./Game_Of_Thrones
+    ports:
+      - 13374:5000
+    read_only: true
+    cap_drop:
+      - all
+    cap_add:
+      - chown
+      - setuid
+      - mknod
+      - setgid
+      - sys_admin
+    security_opt:
+      - apparmor=unconfined
+      - seccomp=unconfined
+
+  return_to_home:
+    build: ./Return_To_Home
+    ports:
+      - 13375:5000
+    read_only: true
+    cap_drop:
+      - all
+    cap_add:
+      - chown
+      - setuid
+      - mknod
+      - setgid
+      - sys_admin
+    security_opt:
+      - apparmor=unconfined
+      - seccomp=unconfined
+
+  safe_bank:
+    build: ./Safe_Bank
+    ports:
+      - 13376:5000
+    read_only: true
+    cap_drop:
+      - all
+    cap_add:
+      - chown
+      - setuid
+      - mknod
+      - setgid
+      - sys_admin
+    security_opt:
+      - apparmor=unconfined
+      - seccomp=unconfined

@@ -1,0 +1,4 @@
+.ccls-cache
+**/__pycache__/**
+hackrush.pem
+connect.sh

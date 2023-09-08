@@ -1,0 +1,34 @@
+id,oauth_id,name,email,password,secret,website,affiliation,country,bracket,hidden,banned,captain_id,created
+1,,shanks,,"$bcrypt-sha256$2b,12$ZeQ5AXIvcxk4Z0rWSFWkPe$KsVl971Kzw716gwHUoY2l9rW/HhUvzW",,,,,,True,False,1,2022-03-23 18:24:23.547364
+2,,weAreGoingToLose,,"$bcrypt-sha256$2b,12$GULSiqDArUcfm0jYqnQ3HO$y1kFCBnRgp.AiqlYqMiqwRZEU1pa/lS",,,,,,False,False,4,2022-03-25 16:01:36.472699
+3,,Nezuko,,"$bcrypt-sha256$2b,12$VK5eJV6f9cfm8dLg2Fuf3e$M9sbVNM2uGHgRBM5G.eNgMh4aUp5SXa",,,,,,False,False,5,2022-03-25 16:01:50.289599
+4,,Orange Juice,,"$bcrypt-sha256$2b,12$d6x8i6E1aFM3ksfF0XedA.$OHHrKsCVHystIMDfhiZMOPBADOzfgtu",,,,,,False,False,7,2022-03-25 16:02:04.384949
+5,,Cyberbot,,"$bcrypt-sha256$2b,12$NfuIaSCR3WIOotMaeY/HDO$oFb.M.6GzLhalFgw7NSGztCCq/hiYGi",,,,,,False,False,2,2022-03-25 16:02:11.525179
+6,,Cicada 3301,,"$bcrypt-sha256$2b,12$ca86i7QB1AOTQM2zs7rvQ.$Jj7FTLaHRJvDLwZDn1jVEpYMe8xCUU.",,,,,,False,False,10,2022-03-25 16:03:17.420120
+7,,BelugoBoo,,"$bcrypt-sha256$2b,12$4BJLgKfCHt0g3v1irL1e9.$elDJi..xWvk2Ixr8ZteM7oM7gXi4NwW",,,,,,False,False,12,2022-03-25 16:03:35.471839
+8,,Team Four,,"$bcrypt-sha256$2b,12$XfpI/uEeEk5FaH82K2Opx.$8bpTYkmNveLWu.RtmqRp1eTPh9VisWm",,,,,,False,False,6,2022-03-25 16:03:41.545511
+9,,"""beware of the black swan""",,"$bcrypt-sha256$2b,12$VPqndA/BOpvQNlWHUSDX5u$t4ek9CQR9poHZm5rqptaAvKae2fbGsG",,,,,,False,False,15,2022-03-25 16:05:50.329964
+10,,Anon_Lmao,,"$bcrypt-sha256$2b,12$e6rcRS063eFOz29b.PlPG.$0gqkC8ZfYC434ASAFDqXwFmK8VQvSii",,,,,,False,False,11,2022-03-25 16:06:21.618544
+11,,NotHereToWin,,"$bcrypt-sha256$2b,12$Oftn5A6QaLpShr9IMP2qUu$7tlGSex0aEsukjD3K9AS9ZfASB2mf7C",,,,,,False,False,13,2022-03-25 16:09:58.215154
+12,,FooBar,,"$bcrypt-sha256$2b,12$/J/ToN9vKtOPMk7MF3vDLO$AfITng63aNB9MWRo.Oqlkhx93B7yvLm",,,,,,False,False,18,2022-03-25 16:14:54.758300
+13,,noobs,,"$bcrypt-sha256$2b,12$FdFatyGHt.BAYyjZnoiOFO$RRyjV/L.H9/CwQswQR0GGXoxmENUwfS",,,,,,False,False,21,2022-03-25 16:15:58.336007
+14,,CTFnoobs,,"$bcrypt-sha256$2b,12$g43cjrLBjtwsDSDxucN9he$pFw/HenzpO6g64LMIPC5XspXfzhu2XC",,,,,,False,False,23,2022-03-25 16:20:54.250748
+15,,LoneTiger,,"$bcrypt-sha256$2b,12$uChArv4ckP6sfP1Dbs1yje$5zhoQHZvPJL5H19OM0U5gSBRQGwbpm6",,,,,,False,False,26,2022-03-25 16:23:29.038647
+16,,multiplexers,,"$bcrypt-sha256$2b,12$MWC2fkS32OMqfXRQPmJmOe$n7I79Di5W.A0UQ4ruAnc2kPzmJaCm3C",,,,,,False,False,19,2022-03-25 16:26:09.079124
+17,,hacker_nerds,,"$bcrypt-sha256$2b,12$Tvq3tKOOf7O2YnEWSgc40O$qjrAd9JYGcyRQST7Nq/3JWVBN243pby",,,,,,False,False,30,2022-03-25 16:29:36.360300
+18,,StagEntry1,,"$bcrypt-sha256$2b,12$G1la5aHMz5dykoV/w8.Xtu$wOZs5XuMp.pB7kicpjZIFJtPHOkiHUW",,,,,,False,False,31,2022-03-25 16:33:32.623063
+19,,Amigos,,"$bcrypt-sha256$2b,12$aCTfk6Lk6/gPOteOnjFUJO$sRe4mUrk16EQrir.oaUzQyPJW/TEAxa",,,,,,False,False,35,2022-03-25 16:36:18.317885
+20,,idk,,"$bcrypt-sha256$2b,12$uxksXFPFj45tGayBOC2sR.$iV.1L0J/nth9nmpBsKlfYBliJxEI9WW",,,,,,False,False,36,2022-03-25 16:37:46.158255
+21,,C0d3Br34k3r5,,"$bcrypt-sha256$2b,12$icdhlt7.egfWs0W9wYmcv.$ndDkEHPEPDefeBHbdPydNfyAYIA2j7.",,,,,,False,False,37,2022-03-25 16:39:31.081935
+22,,TrapGame,,"$bcrypt-sha256$2b,12$bIUjEXMiPv6IedS0O0TS4.$SS.WN/fYP7WSNaqwy/Ekp8EQJfhbfX6",,,,,,False,False,38,2022-03-25 16:39:53.442549
+23,,MainBreadHu,,"$bcrypt-sha256$2b,12$8p.ZlXSl43Af1oMMc7IfNO$q75iCnCgJMAp2ZDg4OnNRSxx28pSYUy",,,,,,False,False,32,2022-03-25 16:44:26.529396
+24,,Darth Coders,,"$bcrypt-sha256$2b,12$IbZ1iDfkvWYfUGP3LeRbHu$iKIamArl3aAS.fUtjcO5ub9sIXJFINi",,,,,,False,False,8,2022-03-25 16:54:14.185156
+25,,badeLog,,"$bcrypt-sha256$2b,12$kuKz4ULqlhUu1mksFTD5h.$Inlvdym32ZJUjMPQyfo8DrNQuBWRztu",,,,,,False,False,53,2022-03-25 17:30:26.058924
+26,,LiveOverflow,,"$bcrypt-sha256$2b,12$YAe4VdAmiVFzECG/.9X72e$J4YGIhzn9j9YW9D4eNN9hVHwc/sOlVm",,,,,,False,False,55,2022-03-25 18:08:46.179923
+27,,Russians,,"$bcrypt-sha256$2b,12$dHxZsoQMoT2cESMQK0DoCO$WVirSGa44FzSpVDWaqhj1eML2iM79XK",,,,,,False,False,60,2022-03-25 18:21:57.341577
+28,,Noobs_Dev,,"$bcrypt-sha256$2b,12$AmD.5D1v.PI5I7yI56etze$ASu/8OTdSVNFuubKPNC5QXx/qOH4wB.",,,,,,False,False,52,2022-03-25 19:20:42.168394
+29,,pizza,,"$bcrypt-sha256$2b,12$uVnO1aFLMIK/7lDkpAYLEu$PnYc7hovmidHgismxESgMjGazC3epta",,,,,,False,False,63,2022-03-25 20:09:13.668019
+30,,alpha_run,,"$bcrypt-sha256$2b,12$zLvoN7T13jwjamhgVH6FsO$oaVDHMul2hWwi22TezPAhYNc4x34AVe",,,,,,False,False,64,2022-03-26 04:09:53.395983
+31,,iknowtransistor,,"$bcrypt-sha256$2b,12$l9F3bPSoEI6oC6Nxsxq4ge$I1vh1cWPOSa27KkROBxFUNMggtbnBhy",,,,,,False,False,65,2022-03-26 04:35:37.629436
+32,,Ghumlo,,"$bcrypt-sha256$2b,12$ugC4UV/cf35CAmiYCvqA2O$spkFB6ox62m1lLYA6UPkC2Q7sjbMPtO",,,,,,False,False,67,2022-03-26 07:02:02.348911
+33,,Try,,"$bcrypt-sha256$2b,12$Y.eju1TdjCJWcIHcJL.h4e$iG2gdEpi8QcJI4TMkiz56/F3GJdqh86",,,,,,False,False,71,2022-03-27 04:43:26.318769

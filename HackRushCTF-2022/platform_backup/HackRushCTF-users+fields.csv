@@ -1,0 +1,72 @@
+id,oauth_id,name,password,email,type,secret,website,affiliation,country,bracket,hidden,banned,verified,team_id,created
+1,,shanks,"$bcrypt-sha256$2b,12$sD0Wl9MciGbKLVZAcyUS4u$Y6HBIgDVf7yLkNl03xsiEJhxNvFxcP6",dishank.goel@iitgn.ac.in,admin,,,,,,True,False,False,1,2022-03-23 13:34:44.250954
+2,,alone,"$bcrypt-sha256$2b,12$JyXzEPEJuZhAySIOUPPAyu$BYpnRHYF/ke3xTcLHLqo.KGIN7C7Cz6",neel.kirankumar@iitgn.ac.in,user,,,,,,False,False,False,5,2022-03-25 16:00:23.533175
+3,,trojanhorse,"$bcrypt-sha256$2b,12$UFF7Z.HgmDCJKXtvL0ReNu$Yc/Cy2PjzejkqHla5.YEKAnAjQeUnrO",dhruv.patel1741@gmail.com,user,,,,,,False,False,False,6,2022-03-25 16:00:34.444864
+4,,flyingMango,"$bcrypt-sha256$2b,12$nEoPzcD1cQH5CyWfZA3pVe$n9ywX4mR2QAxmtJfPgltnvf.YGZptB.",praveen.venkatesh@iitgn.ac.in,user,,,,,,False,False,False,2,2022-03-25 16:01:13.914308
+5,,Pikachu,"$bcrypt-sha256$2b,12$rEIZR/oosszjdb4GU2aDzO$E2WD780vH80RbqXb22Z5fVAU5zMle8u",viramgami.g@iitgn.ac.in,user,,,,,,False,False,False,3,2022-03-25 16:01:27.778720
+6,,Pushpendra,"$bcrypt-sha256$2b,12$YX00FieQ9QIx//YakV0lve$UfvPEFn4WIB5x7Y.5GypDLKNaoYroRG",pushpendra.pratap@iitgn.ac.in,user,,,,,,False,False,False,8,2022-03-25 16:01:30.887295
+7,,hrushti,"$bcrypt-sha256$2b,12$OTzm8xLuYtyaFFXv0qSoqe$//dmLEbjRNBM4DsrhDh0x/i0a/SOanC",hrushti.n@iitgn.ac.in,user,,,,,,False,False,False,4,2022-03-25 16:01:34.326867
+8,,intello72,"$bcrypt-sha256$2b,12$Opy4612ycbdGy1lKdif6BO$nTbIpqes5Jr63nSkJks8Dh6Z3xfxVT.",agarwalmihir@iitgn.ac.in,user,,,,,,False,False,False,24,2022-03-25 16:01:41.895444
+9,,define,"$bcrypt-sha256$2b,12$GN5GIkNkMhBd1uz1jT.HNu$VB9ENcYxDiO7HiwFCe/pbpTieOccs7y",chris.francis@iitgn.ac.in,user,,,,,,False,False,False,2,2022-03-25 16:01:45.582020
+10,,Prey2413,"$bcrypt-sha256$2b,12$v8Kv9n7sLKVG/VXuTROgu.$XUsPlR3nsMDLjGY0dJ5WOuc9VEp9gOC",patel.prey@iitgn.ac.in,user,,,,,,False,False,False,6,2022-03-25 16:02:26.555465
+11,,Dashlander,"$bcrypt-sha256$2b,12$k8GN3dQswXDG453Kl1rnhu$WXS3TaEmSWn14HIBtjpS8T278J.WVRa",maheshtatar@iitgn.ac.in,user,,,,,,False,False,False,10,2022-03-25 16:02:51.483412
+12,,deadweight,"$bcrypt-sha256$2b,12$8in0bluGlEW3gKQfOCJmlO$n0IyVVXvWwd7xWFhEhRKAcbvAOYi7Nu",progyan.das@iitgn.ac.in,user,,,,,,False,False,False,7,2022-03-25 16:02:56.467661
+13,,Sobian,"$bcrypt-sha256$2b,12$igtPZP/Jv40WeRvKU797/u$TNjxO1yFVExuuoMM9MDq8yLZxw8Z3Bi",shubhampandit2308@gmail.com,user,,,,,,False,False,False,11,2022-03-25 16:03:04.071384
+14,,forensic24,"$bcrypt-sha256$2b,12$Q0vlmphnGYZG3TsqAj0o1u$BKUE2GrITX07/QSGgfVaCBUDss/K2jK",shah.neel@iitgn.ac.in,user,,,,,,False,False,False,6,2022-03-25 16:04:47.718102
+15,,yadav_sachin,"$bcrypt-sha256$2b,12$OVd00Ag929QzFiHqMyrCDe$W3zUsW0flMC6nZzpcuFDETdXTCADK4a",sachin.yadav@iitgn.ac.in,user,,,,,,False,False,False,9,2022-03-25 16:04:56.172734
+16,,Danny,"$bcrypt-sha256$2b,12$SjDCv5gLYoM5DfLQJX9KSO$a4FaQjZNCaNLtBQsLzebfpEnncNTXYS",daniel.giftson@iitgn.ac.in,user,,,,,,False,False,False,8,2022-03-25 16:05:23.356087
+17,,Quant,"$bcrypt-sha256$2b,12$dcKQrTeAEWIcnUKDNajK1.$oeYFMBHOq7cVLkb9.CByx/TMb0hjI/.",vengurlekarrudra@iitgn.ac.in,user,,,,,,False,False,False,10,2022-03-25 16:11:20.542398
+18,,AbhigyanMN,"$bcrypt-sha256$2b,12$x1zPcPEqLLSmbfYGl82os.$xVmIfCGnmHgRSCKITibWrfScucQ12qa",abhigyan.mn@iitgn.ac.in,user,,,,,,False,False,False,12,2022-03-25 16:13:07.646351
+19,,anonymous_bad,"$bcrypt-sha256$2b,12$nk8Lp1l9bbbclQ2LPAjj..$ZqP7voyLh1gZXKU0Y9nz169k/y6pAC6",dheeraj.yadav@iitgn.ac.in,user,,,,,,False,False,False,16,2022-03-25 16:14:51.656021
+20,,Chirag Sarda,"$bcrypt-sha256$2b,12$3b2GvOclmHn6ytZwtov3fO$TgVTWIB8oOmknsivEj.SHjSBCh.7VCG",chirag.sarda@iitgn.ac.in,user,,,,,,False,False,False,,2022-03-25 16:15:18.193982
+21,,whatsinaname,"$bcrypt-sha256$2b,12$XfddhWzm.ECppdB7GhF7nu$eaDBWFmnfdHBUKlYWLMXkKtiOsEpxMC",gayatripriyadarsini@iitgn.ac.in,user,,,,,,False,False,False,13,2022-03-25 16:15:29.501167
+22,,htrit,"$bcrypt-sha256$2b,12$ZSSsuKwP6ah03cWtxvFuqu$SJ1O.OPKpBByYJQ7vM/GSQyje3wxsAq",pateltirth@iitgn.ac.in,user,,,,,,False,False,False,10,2022-03-25 16:17:30.450436
+23,,JmpEsp,"$bcrypt-sha256$2b,12$B3G3R2TdysY.gw27Atw0te$/jnhy6T2gKjIdKBhubkQawna3x4Rl7y",unadkatkeyur@iitgn.ac.in,user,,,,,,False,False,False,14,2022-03-25 16:17:34.598145
+24,,Pulkit,"$bcrypt-sha256$2b,12$SJfVC65qYpccWpLcUDdbxu$ZYU0AL3BsI0zWDi.p/8/4v.5K9kZf.u",jain.pulkit@iitgn.ac.in,user,,,,,,False,False,False,11,2022-03-25 16:20:04.884240
+25,,Harshil10,"$bcrypt-sha256$2b,12$fgfIdUznla13ceyeo2tJvu$xaeD7GxA3IB14mI9/AmRl8edP0awB2a",kaneriaharshil@iitgn.ac.in,user,,,,,,False,False,False,14,2022-03-25 16:23:02.429897
+26,,blacktiger,"$bcrypt-sha256$2b,12$WDxqcKpvzz90PbyBAa9VdO$iHH7pBasfydd8enO7bktjC2Sp5g2CbG",barala.v@iitgn.ac.in,user,,,,,,False,False,False,15,2022-03-25 16:23:08.744499
+27,,Debug_master,"$bcrypt-sha256$2b,12$dmPGT4OqFzlKzxDhjZSMNO$A56JSf85/GwybS3crpVAl3Wet4z9Yke",chiragsarda25@gmail.com,user,,,,,,False,False,False,16,2022-03-25 16:26:26.093316
+28,,Dishant Patel,"$bcrypt-sha256$2b,12$MMpmG/RSW0uT7BQAyw7uku$YjLWiQptKPiSedKGIku34HCrv3CIvLi",patel.dishant@iitgn.ac.in,user,,,,,,False,False,False,17,2022-03-25 16:27:23.475994
+29,,Ashutosh Goyal,"$bcrypt-sha256$2b,12$iWwc3S/wooT2ZcMrAfj2Au$2bMUnU36ZBpO6ML0nEVoKjX.Zr8Efqe",ashutosh.goyal@iitgn.ac.in,user,,,,,,False,False,False,17,2022-03-25 16:27:26.652713
+30,,Utkarsh Mittal,"$bcrypt-sha256$2b,12$p/F6evjA9bnU5xypnv5vC.$obc6PMx8EBcw65guod81oGOvtrg3na.",utkarsh.mittal@iitgn.ac.in,user,,,,,,False,False,False,17,2022-03-25 16:28:07.704937
+31,,sleepyguyy,"$bcrypt-sha256$2b,12$xSwgQDpzysx86fFHjS9k3O$6iRBsSK794qmG3TTGGa9CQoqij38cJC",suryansh.kumar@iitgn.ac.in,user,,,,,,False,False,False,18,2022-03-25 16:32:21.032949
+32,,DanzY,"$bcrypt-sha256$2b,12$8yHjR/IT6aza3BavqF3KFe$TbMEesFLo4BkRA4pgu9dywNHfgSv35m",satyam.kumar@iitgn.ac.in,user,,,,,,False,False,False,23,2022-03-25 16:33:19.026186
+33,,flash221,"$bcrypt-sha256$2b,12$dltXoHg5qmM4dlxYUmf/VO$toBWdBqlI248IpHk2fHhnen8sJ1LzZy",rahul.patel@iitgn.ac.in,user,,,,,,False,False,False,18,2022-03-25 16:34:07.655648
+34,,lihas,"$bcrypt-sha256$2b,12$7a2DeUym3UKa2fLv6eGvLO$P6tgInEA0wmeFvS9ZgzQ2uQ7GLsNWay",sahil.ingale@iitgn.ac.in,user,,,,,,False,False,False,18,2022-03-25 16:34:51.506049
+35,,Akshat,"$bcrypt-sha256$2b,12$hLHk9sJ8.o/l.Tvf/5s8h.$Z26y4MKyTY1pIwh9LME1uMS8Us0WYdm",akshat.mangal@iitgn.ac.in,user,,,,,,False,False,False,19,2022-03-25 16:35:48.443807
+36,,mrfire15,"$bcrypt-sha256$2b,12$6v/BX1biAdL8jS010t4AYu$cGGfVuWIz44YnGKce9P.1QC2022.6Ku",mulpuri.m@iitgn.ac.in,user,,,,,,False,False,False,20,2022-03-25 16:37:21.347482
+37,,Harshit,"$bcrypt-sha256$2b,12$j17BBo3omCXhiOZp9TxiP.$3VZnwd97HIcZZbAmtev/av8eNK1m9Me",ramolia.mh@iitgn.ac.in,user,,,,,,False,False,False,21,2022-03-25 16:37:23.516295
+38,,emperor18,"$bcrypt-sha256$2b,12$Cx.nUbs9wBHKiS5OAPnFB.$Ki3ZFTtvHxN7.a4oHmqSWOcu3bVjIV2",viraj0605@gmail.com,user,,,,,,False,False,False,22,2022-03-25 16:38:48.117007
+39,,Nipun03,"$bcrypt-sha256$2b,12$cr2WiH9Qv2MUgXqYPEZPDu$8XUivC1zY8fPPTt9g72c/EEBCSxPjHq",mahajan.n@iitgn.ac.in,user,,,,,,False,False,False,4,2022-03-25 16:39:01.717711
+40,,royal,"$bcrypt-sha256$2b,12$C8UtFYEoxfgfwbIEVoCCaO$ybTE9e/mcFdVgrmfzj2ncHcEGS2x9ce",mohmmad.aslam@iitgn.ac.in,user,,,,,,False,False,False,19,2022-03-25 16:39:08.279128
+41,,silent_JS,"$bcrypt-sha256$2b,12$Y62x1y2M1Vgb5GkFRvoVJe$zMo9AWV9TFwceQ4ZkGSXU2SZ4X0eLzK",jayesh.salunkhe@iitgn.ac.in,user,,,,,,False,False,False,18,2022-03-25 16:39:11.810549
+42,,shrilboss,"$bcrypt-sha256$2b,12$LG/WlU4G2Hx.q9r5wPFQbu$b4uLpE/Mh1VD.uN1825HycVVblHJ7dy",paresh.mody@iitgn.ac.in,user,,,,,,False,False,False,22,2022-03-25 16:39:21.072498
+43,,harshil,"$bcrypt-sha256$2b,12$dTeZAV9ZocnhFX91XE/qn.$6AtI24ssA5s4QjdRRgjdkH6LcxePSde",harshil.p@iitgn.ac.in,user,,,,,,False,False,False,21,2022-03-25 16:40:41.645460
+44,,Shrreya,"$bcrypt-sha256$2b,12$Uir/dL69GOVrMWfu7QWIuO$8OyrP6G1DtV/Wj5A9jDTyCbAneCQbfe",singh.shrreya@iitgn.ac.in,user,,,,,,False,False,False,4,2022-03-25 16:43:54.450304
+45,,VSS,"$bcrypt-sha256$2b,12$MSFo.C5WJg3KSl5l9rzf4O$GkrpqhMuT4OHoFT9btP4P/oytM/7IDO",vrutik.shah@iitgn.ac.in,user,,,,,,False,False,False,22,2022-03-25 16:44:22.277395
+46,,rahulrai_02,"$bcrypt-sha256$2b,12$WpGkSva6LLhOonc9yV7joO$PWPVbpAJ4cuwilb.BJmxQ3l5JJ1x87O",rahulr0211@gmail.com,user,,,,,,False,False,False,16,2022-03-25 16:45:24.657815
+47,,Rahullalani_7,"$bcrypt-sha256$2b,12$fcpa8RsV3.Co94sbkSWAdu$MoVMsMc7yZSGO.lLFJWryByjuC72r3y",rahul.lalani@iitgn.ac.in,user,,,,,,False,False,False,16,2022-03-25 16:54:02.140512
+48,,mohalleKaDon,"$bcrypt-sha256$2b,12$376XFzw04O/BvcQf5pHafe$pTnAsRJFi0DUc0LgUxVzI2F7j.HVLsO",gupta.rahul@iitgn.ac.in,user,,,,,,False,False,False,25,2022-03-25 16:57:58.441999
+49,,Skywalker_752,"$bcrypt-sha256$2b,12$O8WXnJz9gOowm7KcdKo0qu$sNqtLFlVI2wWJN07o4fUKu7gfYx25py",dhyeythummar8@gmail.com,user,,,,,,False,False,False,8,2022-03-25 17:01:04.368428
+50,,harry,"$bcrypt-sha256$2b,12$xlCTShfiPTK4RNEax7sUZe$JJ3HX1gcPzQfqBC/D8WMQib8oBe98SK",hariharan.parmar@iitgn.ac.in,user,,,,,,False,False,False,25,2022-03-25 17:02:46.353703
+51,,zod123,"$bcrypt-sha256$2b,12$MBCrYjkf8FGI6VQi3/bhse$Q1ba03JIGxhYloBYajzP5GHYJffF6j2",arpit.patel@iitgn.ac.in,user,,,,,,False,False,False,23,2022-03-25 17:05:34.270369
+52,,aishwarya_omar,"$bcrypt-sha256$2b,12$kX7iIBBHdgZdWCnJs0md2e$6e7cV8/Ph7qUm7xf5iJLXwXXx2JwnTW",aishwarya.omar@iitgn.ac.in,user,,,,,,False,False,False,28,2022-03-25 17:06:07.285340
+53,,popaXD,"$bcrypt-sha256$2b,12$qvnsK7Qv0AuAyL58P5EQL.$TdWvARNxkIjI5euMQKPphnpfcU6cLty",anas.ali@iitgn.ac.in,user,,,,,,False,False,False,25,2022-03-25 17:29:14.273463
+54,,DaddY,"$bcrypt-sha256$2b,12$sqB6Blkzu.088niNc9BO0O$kS9jWLkvf46TGhBlMcVbUBonF/IVfem",rishi.patidar@iitgn.ac.in,user,,,,,,False,False,False,23,2022-03-25 18:02:30.871036
+55,,Skratch,"$bcrypt-sha256$2b,12$GO1DnhKDIAj2s2R10tTrnO$VTY8tHYj6u36fzJggBhscsUVNaX4Yye",inderjeet230502@gmail.com,user,,,,,,False,False,False,26,2022-03-25 18:05:20.004667
+56,,asquare,"$bcrypt-sha256$2b,12$I51OAycJBd9QTqcCJE5Ave$IomEwMFiPvYKwhgrUVwHWXAIjlgnqDy",agarwal.aditi@iitgn.ac.in,user,,,,,,False,False,False,26,2022-03-25 18:10:44.374338
+57,,ihxrsh,"$bcrypt-sha256$2b,12$ZcyIRXnGkowciSivUrzHpO$LPAUVMbmyM6GZ0/.m4gO6raH9VlLQnC",harshvardhan.vala@iitgn.ac.in,user,,,,,,False,False,False,26,2022-03-25 18:10:47.772117
+58,,bigshow,"$bcrypt-sha256$2b,12$NHQzK21O3jfzvTwHLxeCre$wHe6BKvwxPQMOeYUUGphVFtni7wpLly",tanmay.sharma@iitgn.ac.in,user,,,,,,False,False,False,25,2022-03-25 18:12:47.733741
+59,,Nokzendi,"$bcrypt-sha256$2b,12$YPZYQN8zqhVNylVN67TKIu$A7Pg.Q0.JGgbQninnMJM3lanRnK1HFy",snokzendi@iitgn.ac.in,user,,,,,,False,False,False,26,2022-03-25 18:15:15.643149
+60,,RushRussian,"$bcrypt-sha256$2b,12$O9/lAClMkbBByKNFalfH3O$9n/owP.sAqMzsHIMMNkOwaVeDjDvPgW",ajinkya.pawar@iitgn.ac.in,user,,,,,,False,False,False,27,2022-03-25 18:21:36.127209
+61,,kash,"$bcrypt-sha256$2b,12$A/jOu2YCGcKBtZ27HZcCq.$fka/tRoSHrkWfQ/m4E71ix0R4viG9ty",kalash.kankaria@iitgn.ac.in,user,,,,,,False,False,False,,2022-03-25 18:34:51.933960
+62,,thenoobghost,"$bcrypt-sha256$2b,12$hECyVlry.WJzpPu20eXSoO$2MhT7txQOFNV6XLEKTI1KlX1aB.M2ee",mittalaakash@iitgn.ac.in,user,,,,,,False,False,False,14,2022-03-25 19:06:39.711825
+63,,khalba02#0054,"$bcrypt-sha256$2b,12$B0mSw.gQWkAFsOqwWN2UQe$dIRNOrqr0MuHiOtoi90srX8vdr/0b6m",aravind.krishna@iitgn.ac.in,user,,,,,,False,False,False,29,2022-03-25 20:08:39.208356
+64,,Piyush Dhirwani,"$bcrypt-sha256$2b,12$0EBQclvhJ6E5YC1728J9R.$Hb1YCPGaC2a.UYEWjlDpuU5xNa7T7qG",piyush.dhirwani@iitgn.ac.in,user,,,,,,False,False,False,30,2022-03-26 04:07:20.204974
+65,,iknowtransistor,"$bcrypt-sha256$2b,12$WEZHXZ2RTu4WPGEYQ0tAd.$8CRlpUoEE.T4SEP4VHLGFP3vYLuOEuy",gupta.prakash@iitgn.ac.in,user,,,,,,False,False,False,31,2022-03-26 04:35:20.688657
+66,,Cynic,"$bcrypt-sha256$2b,12$VSQXjzCaUFJJ81kPdgMyEu$XixdHyNiQ1/zbAC1PClYN3RxrDk/jnu",cynicdoom@gmail.com,user,,,,,,False,False,False,,2022-03-26 06:01:27.868086
+67,,akelehumtum,"$bcrypt-sha256$2b,12$N5MRIMsooSK5ZeARqOo/Zu$d0tg6Q5pXLHNhM25swQWPy7BUZCtHrO",vishal.ghoniya@iitgn.ac.in,user,,,,,,False,False,False,32,2022-03-26 07:00:42.902240
+68,,coldthunder29,"$bcrypt-sha256$2b,12$HKNsbKvO3Vl4VpojMQ/C6.$aeAVNValtW27YakAmiJGwLL9nPIjECC",yash.kokane@iitgn.ac.in,user,,,,,,False,False,False,,2022-03-26 08:08:26.187578
+69,,Sachin123,"$bcrypt-sha256$2b,12$WjfjsKZSYPzyi0Ur8PCq1e$tzckOnKP/1kYoEcs/j8Z.FdisajRU16",sachinjalan03@gmail.com,user,,,,,,False,False,False,10,2022-03-26 17:47:12.592639
+70,,sam,"$bcrypt-sha256$2b,12$stfx9XhbOEwaGJAKFEFSGe$rz80gHIBQpiFRiQUVZ0qke3/WfE21VC",sumit.kumar@iitgn.ac.in,user,,,,,,False,False,False,,2022-03-26 22:43:37.785824
+71,,mj,"$bcrypt-sha256$2b,12$aGkhM9l6is/09Q9oXKkGIe$Be.vc9js4ILWMurA.832m53F28IHE86",mann.jain@iitgn.ac.in,user,,,,,,False,False,False,33,2022-03-27 04:43:03.347837

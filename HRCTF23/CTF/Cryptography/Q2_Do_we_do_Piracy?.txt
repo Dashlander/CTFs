@@ -1,0 +1,4 @@
+We've found a key that was leaked from the servers of the Columbia Broadcasting Studios. This key will allow us to access their servers and watch the latest content of 20 23 for free. The only Problem is that the key is encrypted. Can you find the Key?
+
+
+29 0C 2D 6D 6A 4C 2E 6D 0F 6A 88 C7 6D 06 72 46 6B D6 2B E6 A6 E6 8E 66 EB EE A6 26 EF 8B ED AD 2B E6 E3 E6 A6 F2 86 C6 46 AB E6 6C CB E6 2E 46 26 2C CF A0

@@ -1,0 +1,40 @@
+id,name,description,connection_info,max_attempts,value,category,type,state,requirements
+1,Military Grade Encryption,"Have you seen military grade encryption before? I have heard its pretty tough to break since the military and all use it. So I used it to secure my secret vault service. Everything is secure now! Have fun trying to break AES again!
+
+Connect to the service using:
+
+> nc 20.219.137.184 34898",,0,500,Cryptography,standard,visible,
+2,Really Simple Algorithm,"This is a really simple algorithm. But it is responsible for a lot of security in computer systems. Can you check if it's safe? 
+
+PS: After the challenge, you may want to read about implementation details of the said ""simple algorithm""",,0,50,Cryptography,standard,visible,
+3,Safety x2,More walls definitely means more security right? right?,,0,200,Cryptography,standard,visible,
+4,So Many Primes,A group of 6 people are talking amongst each other. There are a lot of public keys and encrypted messages going around. They all are talking about the flag though. Can you get it?,,0,150,Cryptography,standard,visible,
+5,Truly Random,You may need to break AES to solve this one. Good luck on breaking the entire backbone of the modern internet security!,,0,250,Cryptography,standard,visible,
+6,Welcome,"Glad to see you here!
+
+Join the Discord server to stay updated!",,0,10,Miscellaneous,standard,visible,
+7,Foreign Seek,I have heard that a lot of people seek to go to foreign. So here is a picture of some cool buildings that I found on the internet.  ,,0,200,Miscellaneous,standard,visible,
+8,Onion,Have you seen how onions have just layers and nothing in the end? I like such constructions.,,0,150,Miscellaneous,standard,visible,
+9,Sniff Sniff,I sniffed some very weird packets through wireshark. Do you know what they are?,,0,100,Miscellaneous,standard,visible,
+10,Where Flag?,"![](/files/92bb702b7102f38ef165db1d5abb66a2/where_flag_meme.jpg)
+
+You can connect to the challenge here:",nc 20.219.137.184 34899,0,50,Miscellaneous,standard,visible,
+11,Flag Validator,A simple application that validates your flag.,,0,150,Reverse Engineering,standard,visible,
+12,Flag Validator v2,"The Flag validator is back. This time it may get a ""bit"" tricky.",,0,400,Reverse Engineering,standard,visible,
+13,Super Computer,"I will make no attempts to hide the flag this time. This program will simply print the flag for you. 
+
+PS: I heard that there's a High Performance Computing cluster at IITGn",,0,250,Reverse Engineering,standard,visible,
+14,n00b crypto,"I have seen 1 blog post on cryptography and I am ready to implement unbreakable superior crypto algorithms! Honestly, this stuff is very easy. The implementation is so strong, I am even sharing my algorithm with everyone!",,0,200,Reverse Engineering,standard,visible,
+15,Data Breach,"Alert! Our server's sensitive data has been breached. How did they manage to breach our system? Here is the application, please help us figure it out!
+
+Connect to the challenge using:",nc 20.219.137.184 13371,0,150,Binary Exploitation,standard,visible,
+16,Domestic Canary,"The domestic canary is a very cute bird. I quite like it. You should know about it too! 
+
+Connect to the challenge using: ",nc 20.219.137.184 13372,0,400,Binary Exploitation,standard,visible,
+17,Emotion Overflow,"Hey hey hey! I am not emotional okay! So don't try to overflow me.
+
+Connect to the challenge using:",nc 20.219.137.184 13373,0,250,Binary Exploitation,standard,visible,
+18,Game of Thrones,I will be honest. I haven't watched Game Of Thrones (please don't socially ban me). What are your thoughts on it? ,nc 20.219.137.184 13374,0,500,Binary Exploitation,standard,visible,
+19,Return to Home,"You may have been lost, you need to return to your home immediately. Give us your address and we will inform the authorities!",nc 20.219.137.184 13375,0,800,Binary Exploitation,standard,visible,
+20,Safe Bank,"The safest bank you'll ever use is here! Everyone is treated equally here, though some people are treated more equally.",nc 20.219.137.184 13376,0,150,Binary Exploitation,standard,visible,
+21,Hacker Hut,"We train the best hackers in the world here. You have to pass a test to get in here. Dont worry, its not too hard.",nc 20.219.137.184 34900,0,200,Cryptography,standard,visible,
